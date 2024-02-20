@@ -1,6 +1,3 @@
-## Macintosh Common Lisp
+## Macintosh Common Lisp Runtime
 
-Yes, you heard that right. Clearly in MacOS 9.2.2 within a PowerBook G3. The best purchase I have _ever_ made. Rediscovering so much wisdom lost to the digital winds of millitime.
-
-### table of contents
-
+Although no computer can run this, except via [SheepShaver](https://sheepshaver.cebix.net), those with old PowerBooks, can certainly participate in this repository's goals.
