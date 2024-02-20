@@ -1,0 +1,1 @@
+long testMultiSegmentAux (){	return(23);}

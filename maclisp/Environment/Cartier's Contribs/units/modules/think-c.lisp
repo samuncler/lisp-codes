@@ -1,0 +1,1 @@
+;;; -*- package: CC -*-;;;;;;; Unit for module THINK-C;;;(in-package "CC")(defunit "THINK-C"  (:requires "FF"             "RESOURCES")  (:source-pathname "cc:modules;think-c;lisp;")  (:binary-pathname "cc:binaries;modules;think-c;")  (:components "think-c"))

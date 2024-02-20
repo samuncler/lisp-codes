@@ -1,0 +1,1 @@
+extern testMultiSegmentAux();long testMultiSegment (){	return(testMultiSegmentAux());}

@@ -1,0 +1,1 @@
+int myEqualString(char x[], char y[]){	if (x[0] != y[0])		return(0);	else {	    int i;		for(i=1; i<=x[0]; i++)			if (x[i] != y[i])				return(0);		return(1);	}}#define EXPORT(n,x,y) { if (myEqualString(n,y)) RETURN_A0(&x); }#define LOADER_ERROR() RETURN_A0(0L);

@@ -1,0 +1,1 @@
+;;; -*- package: CC -*-;;;;;;; Unit for module RESOURCES;;;(in-package "CC")(defunit "RESOURCES"  (:requires "RESOURCES")  (:source-pathname "cc:modules;various;")  (:binary-pathname "cc:binaries;modules;various;")  (:components "resources"))

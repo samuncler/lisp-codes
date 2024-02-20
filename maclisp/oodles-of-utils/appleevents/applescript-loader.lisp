@@ -1,0 +1,1 @@
+(in-package :cl-user)(defpackage "ASTOOLS" (:use "COMMON-LISP" "CCL")  (:nicknames "AS" :AS))(require :utils "oou:applescript/appleevents;utils")(require :applescript "oou:applescript/appleevents;appleScript.lisp");(require :as-edit "oou:applescript/appleevents;appleScript editor.lisp")

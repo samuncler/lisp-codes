@@ -1,0 +1,1 @@
+;;; -*- package: CC -*-;;;;;;; Unit for module REPORTER;;;(in-package "CC")(defunit "REPORTER"  (:depends-on "EXTENSIONS")  (:source-pathname "cc:modules;various;")  (:binary-pathname "cc:binaries;modules;various;")  (:components "reporter"))(defindent "CC"  ("REPORTER-CASE"        1)  ("WITH-REPORT-HANDLERS" 1))

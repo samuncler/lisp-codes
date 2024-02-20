@@ -1,0 +1,1 @@
+;;;-*- Mode: Lisp; Package: CCL -*-;;; This file has moved to "ccl:library;font-menus.lisp;;; It is now part of the shipping MCL image, so you don't need to load it anymore.(in-package :ccl)(eval-when (:compile-toplevel :execute)  (warn "\"ccl:examples;font-menus.lisp\" is now part of MCL."))

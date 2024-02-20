@@ -1,0 +1,1 @@
+;;; -*- package: CC -*-;;;;;;; Unit for module COLLECTIONS;;;(in-package "CC")(defunit "COLLECTIONS"  (:depends-on "POPPER-MENUS")  (:source-pathname "cc:modules;various;")  (:binary-pathname "cc:binaries;modules;various;")  (:components "collections"))

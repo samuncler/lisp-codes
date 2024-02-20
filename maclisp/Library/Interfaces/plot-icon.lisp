@@ -1,0 +1,1 @@
+;; This form has been added from patch file HD:CCL3.0d17:Interface Translator:legacies:plot-icon.patch(DEFCONSTANT $TTLABEL0 0)

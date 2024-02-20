@@ -1,0 +1,1 @@
+;;; -*- package: CC -*-;;;;;;; Unit for module EXTENDED-APROPOS;;;(in-package "CC")(defunit "EXTENDED-APROPOS"  (:requires "THERMOMETER"             "HELP-MANAGER")  (:depends-on)  (:source-pathname "cc:modules;extended-apropos;")  (:binary-pathname "cc:binaries;modules;extended-apropos;")  (:components "tools"               "apropos"               "subviews"))

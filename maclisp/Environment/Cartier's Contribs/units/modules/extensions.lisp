@@ -1,0 +1,1 @@
+;;; -*- package: CC -*-;;;;;;; Unit for module EXTENSIONS;;;(in-package "CC")(defunit "EXTENSIONS"  (:depends-on)  (:source-pathname "cc:modules;various;")  (:binary-pathname "cc:binaries;modules;various;")  (:components "extensions"))

@@ -1,0 +1,1 @@
+You may not need to put ThreadsLib in your extensions folder.If you are using a more recent version of the MacOS that already contains the ThreadsLib library, you DO NOT NEED this ThreadsLib file.  Adding it to your Extensions Folder will crash MCL.See the MCL Release Notes for more information.

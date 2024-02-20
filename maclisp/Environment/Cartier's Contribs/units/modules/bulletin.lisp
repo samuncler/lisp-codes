@@ -1,0 +1,1 @@
+;;; -*- package: CC -*-;;;;;;; Unit for module BULLETIN;;;(in-package "CC")(defunit "BULLETIN"  (:requires "THERMOMETER"             "THERMOMETER-PATCH")  (:depends-on "MACINTOSH")  (:source-pathname "cc:modules;various;")  (:binary-pathname "cc:binaries;modules;various;")  (:components "bulletin"))
